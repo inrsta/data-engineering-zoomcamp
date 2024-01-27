@@ -14,3 +14,4 @@
 serving_dir
 .ipynb_checkpoints/
 !week_6_stream_processing/avro_example/data/rides.csv
+cohorts/2024/dataeng2024-da7c56fa73e1.json
